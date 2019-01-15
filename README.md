@@ -1,5 +1,3 @@
 # quick_classifier
 
-Classification Model
-
-Series of exercises using python
+A series of quick exercises using python
